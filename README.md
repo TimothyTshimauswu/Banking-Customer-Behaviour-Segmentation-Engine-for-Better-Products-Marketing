@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/project_banner.png" width="100%" alt=" Banking Customer Behaviour Segmentation Engine for Better Products Marketing Banner">
+  <img src="assets/project_banner.png" width="100%" alt=" Banking Customer Behaviour Segmentation Engine for Better Products Marketing Banner"> 
 </p>
 
 <h1 align="center">🏦Banking Customer Behaviour Segmentation Engine for Better Products Marketing</h1>
