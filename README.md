@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/project_banner.png" width="100%" alt="Banking Customer Behaviour Segmentation Engine Banner">
+  <img src="assets/project_banner.png" width="100%" alt="Banking Customer Behaviour Segmentation Engine for Better Products Marketing Banner">
 </p>
 
-<h1 align="center">🏦Banking Customer Behaviour Segmentation Engine</h1>
+<h1 align="center">🏦Banking Customer Behaviour Segmentation Engine for Better Products Marketing</h1>
 
 <h3 align="center">
   PCA • K-Means Clustering • Decision Tree Classification • Streamlit Deployment
