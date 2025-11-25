@@ -12,8 +12,6 @@
 A full-stack behavioural analytics system I built to segment banking customers by spending patterns, income levels, and financial behaviour. The goal is to support targeted product design, improve marketing accuracy, and increase engagement and conversion.
 </p>
 
-A full-stack behavioural analytics system I built to segment banking customers by spending patterns, income levels, and financial behaviour. The goal is to support targeted product design, improve marketing accuracy, and increase engagement and conversion.
-
 ## Executive Summary
 
 This project started with my own experience as a South African banking customer. Standard Bank and Capitec frequently contacted me with product offers. Some matched my spending habits and income band. Others felt unrelated to my lifestyle. I wanted to understand how banks decide who receives credit cards, lifestyle bundles, investment products, or rewards programmes, and why some offers align while others do not.
